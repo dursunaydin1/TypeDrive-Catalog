@@ -11,11 +11,11 @@
         <li><strong>Fonksiyon Parametreleri:</strong> Fonksiyonlar, alınması gereken parametrelerin türleri ile belirtilmiştir. Örneğin, bir filtreleme işlevi aşağıdaki gibi tanımlanmıştır:</li>
     </ul>
     
-    <pre><code>
+    <p>
 function filterCarsByYear(year: number): ICarProps[] {
   // ...
 }
-    </code></pre>
+    </p>
     
     <h3>Framer Motion Animasyonları</h3>
     <ul>
